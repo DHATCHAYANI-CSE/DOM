@@ -1,0 +1,11 @@
+Document Object Model
+Document-->file
+Object-->tag elements
+Model-->layout structure
+DOM --represents the content of xml or html document as tree structure
+    --can easily read,access,update the contents of the document
+    --is a programming interface(API)
+    --program interface for html and xml
+    --is an object oriented representation of the webpage,which can be modified with a scripting language such as javaScript
+    --every web browser uses some DOM to make web pages accseeible via JS
+    
